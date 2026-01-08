@@ -49,7 +49,7 @@ The goal of this project is to transform raw hotel booking data into **meaningfu
 
 ## 🖼 Dashboard Preview
 
-https://github.com/Gayatri2603/Hotel-booking-Overview/blob/main/Hotel%20booking%20.png
+(https://github.com/Gayatri2603/Hotel-booking-Overview/blob/main/Hotel%20booking%20.png)
 
 ---
 

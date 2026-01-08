@@ -47,12 +47,6 @@ The goal of this project is to transform raw hotel booking data into **meaningfu
 
 ---
 
-## 🖼 Dashboard Preview
-
-(https://github.com/Gayatri2603/Hotel-booking-Overview/blob/main/Hotel%20booking%20.png)
-
----
-
 ## 📂 Dataset
 
 The dataset used in this project contains hotel booking information such as:
@@ -84,6 +78,10 @@ The dataset used in this project contains hotel booking information such as:
 - Portfolio project for job applications
 
 ---
+
+## 🖼 Dashboard Preview
+
+![Sales Data Overview Da](https://github.com/Gayatri2603/Hotel-booking-Overview/blob/main/Hotel%20booking%20.png)
 
 ## 📬 Contact
 
